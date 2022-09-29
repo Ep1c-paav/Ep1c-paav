@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ep1c-paav
 - 👀 I’m interested in coding and design 
-- 🌱 I’m currently learning css and python
+- 🌱 I’m currently learning html, css and python
 - 💞️ I’m looking to collaborate on blender projects or website design 
 - 📫 reach me by - govindakrishna2020@gmail.com
 
